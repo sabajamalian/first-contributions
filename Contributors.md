@@ -64,6 +64,7 @@
 - [Stephanie Greenberg](https://github.com/StephanieGreenberg)
 - [Damian Romero](https://github.com/damian-romero)
 - [Irshad Ahamed](https://github.com/Zinkuth)
+- [Saba Jamalian](https://github.com/sabajamalian)
 - [Vaibhav Sharma](https://github.com/imvsharma)
 - (Shyamashrita Chatterjee)
 - [Tarush Arora](https://github.com/tarusharora03)
